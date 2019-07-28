@@ -17,3 +17,6 @@ Java, Spring, Thymeleaf, probably android for phone apps I'll make to sync up to
 
 ### What I'll Have to Learn
 Review Java/Spring.  Mostly learn what exactly the app needs to do.  I'm having an office girl cross train me at her job.
+
+TRELLO:
+https://trello.com/b/XruHtZIp/weaselware
