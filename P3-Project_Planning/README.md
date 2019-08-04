@@ -10,8 +10,12 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 <ul>
-  <li>https://github.com/lizardlaconic/liftoff-assignments</li>
+  <li>https://github.com/lizardlaconic/liftoff-assignments/P3-Project_Planning/index3.jpg</li>
+  <li>https://github.com/lizardlaconic/liftoff-assignments/P3-Project_Planning/index1.jpg</li>
+  <li>https://github.com/lizardlaconic/liftoff-assignments/P3-Project_Planning/index2.jpg</li>
 </ul>
+
+My ideas are still really vague I'm going to have to figure this out as I go.
 
 ### Project Tracker
 
