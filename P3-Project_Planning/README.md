@@ -25,3 +25,6 @@ https://trello.com/b/XruHtZIp/weaselware
 ### Project Repo Link
 
 (Include a link to your project on GitHub)
+https://github.com/lizardlaconic/weaselware.git
+
+i haven't started yet, not sure what the point of this link is.
