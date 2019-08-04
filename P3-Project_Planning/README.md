@@ -20,6 +20,7 @@ My ideas are still really vague I'm going to have to figure this out as I go.
 ### Project Tracker
 
 (Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://trello.com/b/XruHtZIp/weaselware
 
 ### Project Repo Link
 
