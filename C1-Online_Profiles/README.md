@@ -7,12 +7,16 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+https://github.com/lizardlaconic
+
+I guess I should organize my github.  I have an old game project in C++ that I should probably upload too.
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+Do we HAVE to make a LinkedIn account?  I'm really paranoid about putting anything about myself online.
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+https://github.com/lizardlaconic/liftoff-assignments/blob/master/C1-Online_Profiles/resume.pdf
+
+Feel free to criticise my resume, I'll take all the advice I can get.
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
