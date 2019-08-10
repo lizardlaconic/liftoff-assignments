@@ -7,4 +7,6 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-Change this text with a link to your project repository here. Also add a README.md file to your project repository.
+https://github.com/lizardlaconic/weaselware2/tree/firstBranch
+
+I tried to make a branch like you showed us in last class so the link above goes straight to my new branch.
